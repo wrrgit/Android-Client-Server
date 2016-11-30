@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="title_activity_error">ErrorActivity</string>
+    <string name="title_activity_register_success">RegisterSuccessActivity</string>
+    <string name="title_activity_unknown">UnknownActivity</string>
+
+</resources>
